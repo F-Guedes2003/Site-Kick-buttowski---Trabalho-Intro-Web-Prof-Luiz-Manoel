@@ -1,0 +1,37 @@
+#cabeçalho {
+    text-align: center;
+}
+
+.corpo {
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
+
+h1 {
+    color: crimson;
+    font-family: monospace;
+}
+
+p {
+    color: yellow;
+    font-family: "monospace";
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+}
+
+a:hover{
+    font-size: larger;
+    font-weight: bold;
+}
+
+#main-return{
+    margin-top: 80px;
+    text-align: center;
+    font-weight: bold;
+}

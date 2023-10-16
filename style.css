@@ -1,0 +1,109 @@
+#cabeçalho{
+    text-align: center;
+    font-family: monospace;
+}
+
+#cabeçalho h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.história{
+    font-family: monospace;
+    text-align: center;
+    color: yellow;
+}
+
+.center-align{
+    text-align: center;
+}
+
+.table th{
+    color: crimson;
+    border: 1px solid yellow;
+}
+
+.table td{
+    color: yellow;
+    border: 1px solid yellow;
+}
+
+.characters{
+    text-align: center;
+    font-family: monospace;
+}
+.characters h2{
+    margin-top: 80px;
+    color: crimson;
+}
+
+.characters h3{
+    color: crimson;
+}
+
+.characters p{
+    color: yellow;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: crimson
+}
+
+h2 {
+    color: crimson;
+}
+
+hr{
+    border-color: yellow;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 25px;
+    margin-left: 25px
+}
+
+table{
+    border-color: yellow;
+}
+
+table a{
+    color: yellow;
+}
+
+th:hover{
+    font-size: larger;
+}
+
+td:hover{
+    font-size: larger;
+}
+
+span:hover{
+    font-size: larger;
+    font-weight: bold;
+}
+
+a:hover{
+    font-size: larger;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+}
+
+.redirecionamento-dev{
+    margin-top: 80px;
+    text-align: center;
+}
+
+.redirecionamento-dev a{
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: crimson;
+}
